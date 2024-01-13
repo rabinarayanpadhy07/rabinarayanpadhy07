@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rabinarayanpadhy07" alt="rabinarayanpadhy07" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/itz_silu_94" target="blank"><img src="https://img.shields.io/twitter/follow/itz_silu_94?logo=twitter&style=for-the-badge" alt="itz_silu_94" /></a> </p>
+<p align="left"> <a href="https://twitter.com/RNP_0007" target="blank"><img src="https://img.shields.io/twitter/follow/RNP_0007?logo=twitter&style=for-the-badge" alt="Rabi Narayan Padhy" /></a> </p>
 
 - 📫 How to reach me **padhyrabinarayan45@gmail.com**
 
