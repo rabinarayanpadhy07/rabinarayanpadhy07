@@ -1,6 +1,4 @@
 
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/rabi-narayan-padhy-a2449525a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -16,7 +14,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rabinarayanpadhy07.rabinarayanpadhy07&"  />
+ <img src="https://komarev.com/ghpvc/?username=rabinarayanpadhy07&label=Profile%20views&color=0e75b6&style=flat" alt="rabinaraynpadhy07" />
 </div>
 
 ###
@@ -29,7 +27,11 @@
 
 ###
 
-<p align="left">A Passionate Software Developer From India<br><br>- 📫 How to reach me padhyrabinarayan45@gmail.com<br>- 🌱 I’m currently learning at PwSkills<br>- 💬 Ask me about JavaScript<br>- ⚡ Fun fact I think I am funny 😁</p>
+<p align="left">A Passionate Software Developer From India<br><br>- 📫 How to reach me <a href = "padhyrabinarayan45@gmail.com" target="_blank">padhyrabinarayn45@gmail.com </a> <br>- 🌱 I’m currently learning at PwSkills<br>- 💬 Ask me about JavaScript<br>- ⚡ Fun fact I think I am funny 😁</p>
+
+
+
+
 
 ###
 
@@ -66,3 +68,7 @@
 </div>
 
 ###
+
+<div align="center">
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rabinarayanpadhy07&show_icons=true&locale=en&layout=compact" alt="rabinarayanpadhy07" /></p>
+</div>
