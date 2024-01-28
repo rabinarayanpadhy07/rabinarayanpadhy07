@@ -62,12 +62,17 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rabinarayanpadhy07&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+ <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabinarayanpadhy07&" alt="rabinarayanpadhy07" /> </p>
 </div>
 
 ###
-
+<div align="center">
+ <p>  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rabinarayanpadhy07&show_icons=true&locale=en" alt="rabinarayanpadhy07"/> </p> 
+  </div>
+  
+  ###
 <div align="center">
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rabinarayanpadhy07&show_icons=true&locale=en&layout=compact" alt="rabinarayanpadhy07" /></p>
 </div>
