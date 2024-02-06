@@ -19,7 +19,7 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Rabi Narayan Padhy</h1>
+<h1 align="center">Hi 👋, I'm RABI NARAYAN PADHY</h1>
 
 ###
 
